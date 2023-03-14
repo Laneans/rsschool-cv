@@ -65,7 +65,7 @@ I am currently working as a freelance Web Designer. I also implemented my websit
 + Children's Art School No. 1 in Minsk (Art Department)  [*2013 - 2018*] 
 + Itlandia (Frontend development)  [*2018 - 2019*]
 + Yan Ageenko’s online school (UI/UX and Web Design (professional course)) [*2022*] 
-+ Rolling Scopes School (JavaScript/Front-end 2023Q1) [*2023 in progress...*] 
++ Rolling Scopes School (JavaScript/Front-end 2023Q1) [*2023 in progress...*]
 
 ---
 
