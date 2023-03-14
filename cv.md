@@ -23,7 +23,6 @@ So I decided to become a front-end developer. I am inspired to help people and m
 I have a calm, assiduous character and a creative streak. I love reading and animals too :)
 
 ---
-
 ##  Skills and Proficiency ##
 + HTML
 + CSS
