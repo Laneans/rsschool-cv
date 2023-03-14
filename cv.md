@@ -1,5 +1,3 @@
-#  rsschool-cv #
-
 #  Domash Anastasia #   
 ### Junior Frontend Developer & Web/UI/UX Designer ###
 ---
@@ -13,7 +11,6 @@
 + Telegram: [SiaLanne](https://t.me/SiaLanne)
 + GitHub: [Laneans](https://github.com/Laneans)
 + [LinkedIn](https://www.linkedin.com/in/anastasia-domash-3a2882247/)
-+ [Behance](https://www.behance.net/anastasiadomash)
 ---
 
 ##  About Me ##
