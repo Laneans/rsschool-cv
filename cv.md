@@ -2,6 +2,7 @@
 ### Junior Frontend Developer & Web/UI/UX Designer ###
 ---
 >*All our dreams can come true, if we have the courage to pursue them*
+
 ---
 
 ##  Contacts ##
@@ -10,7 +11,7 @@
 + E-mail: <anastasiartweb@gmail.com>
 + Telegram: [SiaLanne](https://t.me/SiaLanne)
 + GitHub: [Laneans](https://github.com/Laneans)
-+ [LinkedIn](https://www.linkedin.com/in/anastasia-domash-3a2882247/)
++ LinkedIn: [Anastasia Domash](https://www.linkedin.com/in/anastasia-domash-3a2882247/)
 ---
 
 ##  About Me ##
