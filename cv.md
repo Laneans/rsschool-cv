@@ -11,7 +11,7 @@
 + E-mail: <anastasiartweb@gmail.com>
 + Telegram: [SiaLanne](https://t.me/SiaLanne)
 + GitHub: [Laneans](https://github.com/Laneans)
-+ LinkedIn: [Anastasia Domash](https://www.linkedin.com/in/anastasia-domash-3a2882247/)
++ LinkedIn: [Anastasia_Domash](https://www.linkedin.com/in/anastasia-domash-3a2882247/)
 ---
 
 ##  About Me ##
