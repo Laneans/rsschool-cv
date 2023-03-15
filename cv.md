@@ -12,10 +12,13 @@
 + [LinkedIn](https://www.linkedin.com/in/anastasia-domash-3a2882247/)
 + Telegram: [SiaLanne](https://t.me/SiaLanne)
 + GitHub: [Laneans](https://github.com/Laneans)
+
+
+
+
 ---
 
 ##  About Me ##
-
 I started my journey with design and realized that I wanted to be able to implement the project to the end, including development.
 So I decided to become a front-end developer. I am inspired to help people and making them happier and life better and more convenient.
 I have a calm, assiduous character and a creative streak. I love reading and animals too :)
