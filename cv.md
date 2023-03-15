@@ -49,7 +49,6 @@ function removeChar(str){
 };
 ```
 ---
-
 ## Experience ##
 I am currently working as a freelance Web Designer. I also implemented my website in HTML, CSS (SASS), JS as part of my course work 
 (to see this: [link](https://laneans.github.io/Photostudio-Sonare/))
