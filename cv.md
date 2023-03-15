@@ -9,9 +9,9 @@
 + Location: Minsk, Belarus
 + Phone: +375 29 689-73-62
 + E-mail: <anastasiartweb@gmail.com>
++ [LinkedIn](https://www.linkedin.com/in/anastasia-domash-3a2882247/)
 + Telegram: [SiaLanne](https://t.me/SiaLanne)
 + GitHub: [Laneans](https://github.com/Laneans)
-+ [LinkedIn](https://www.linkedin.com/in/anastasia-domash-3a2882247/)
 ---
 
 ##  About Me ##
