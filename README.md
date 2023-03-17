@@ -1,1 +1,1 @@
-https://github.com/Laneans/rsschool-cv/blob/rsschool-cv-html/index.html
+https://Laneans.github.io/rsschool-cv/
