@@ -1,2 +1,1 @@
-# rsschool-cv
-CV#1. Markdown &amp; Git
+# [rsschool-cv](https://Laneans.github.io/rsschool-cv/cv)
